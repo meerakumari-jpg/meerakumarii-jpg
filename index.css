@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harsha Vardhan Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <header>
+        <h1>ADINETI HARSHA VARDHAN</h1>
+        <p>Mechanical Engineering Graduate</p>
+
+        <div class="contact">
+            <p>📱 +91 9347953181</p>
+            <p>📧 adinetimeera@gmail.com</p>
+            <p>📍 puttur, Andhra Pradesh</p>
+        </div>
+    </header>
+
+    <section>
+        <h2>Career Objective</h2>
+        <p>
+            Motivated Mechanical Engineering graduate seeking an opportunity
+            to utilize my technical knowledge, communication skills,
+            and problem-solving abilities in a reputed organization.
+        </p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+
+        <div class="card">
+            <h3>B.Tech - Mechanical Engineering</h3>
+            <p>Sri Venkateshwara College of Engineering, puttur</p>
+            <p>Affiliated to JNTUA</p>
+            <p>2023 - 2026 | CGPA: 8.15 (81.5%)</p>
+        </div>
+
+        <div class="card">
+            <h3>Diploma in Mechanical Engineering</h3>
+            <p>State Board of Technical Education</p>
+        </div>
+
+    </section>
+
+    <section>
+        <h2>Technical Skills</h2>
+
+        <ul>
+            <li>AutoCAD</li>
+            <li>SolidWorks</li>
+            <li>CATIA</li>
+            <li>MS Office</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+        </ul>
+
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+
+        <div class="card">
+            <h3>Electric Vehicle Study</h3>
+            <p>Worked on EV battery systems and hybrid vehicle technologies.</p>
+        </div>
+
+        <div class="card">
+            <h3>Design Thinking Project</h3>
+            <p>Developed innovative engineering solutions using Design Thinking methodology.</p>
+        </div>
+
+    </section>
+
+    <section>
+        <h2>Strengths</h2>
+
+        <ul>
+            <li>Leadership</li>
+            <li>Teamwork</li>
+            <li>Problem Solving</li>
+            <li>Quick Learner</li>
+            <li>Communication Skills</li>
+        </ul>
+
+    </section>
+
+    <section>
+        <h2>Languages</h2>
+        <p>English, Telugu</p>
+    </section>
+
+    <button onclick="downloadResume()">Download Resume</button>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
